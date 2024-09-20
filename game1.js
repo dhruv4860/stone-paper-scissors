@@ -1,4 +1,4 @@
-let userscore=0;
+let userscore=2;
 let compscore=0;
 const choices=document.querySelectorAll(".choice");
  const msg = document.querySelector("#msg");
